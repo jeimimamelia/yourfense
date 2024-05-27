@@ -1,0 +1,102 @@
+body {background-image:url('background2.jpg');
+background-size: contain;}
+
+p {text-align: center;}
+
+nav {font-family: Tahoma;}
+
+body {
+    margin: 0;
+    font-family: Garamond ;
+}
+
+img {
+  width: 900px;
+  height: 700px:
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  font-family: Helvetica, sans-serif ;
+  align-items: center;
+  padding: 1.4rem 7%;
+  background-color: rgba(255, 241, 215, 0.8);
+  border-bottom: 1px solid #51c28;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.navbar .navbar-logo {
+  font-size: 2rem;
+  font-weight: 700;
+  color: rgb(255, 163, 179);
+  font-style: italic;
+}
+
+.navbar .navbar-logo span {
+  color: var(--primary);
+}
+
+.navbar .navbar-nav a {
+  color: rgb(255, 129, 150);
+  display: inline-block;
+  font-size: 1.4rem;
+  margin: 0;
+
+}
+
+pre { 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+
+ol {color: rgb(161, 37, 78);
+  text-align:center;
+  font-weight: bold; 
+  font-size: x-large;
+}
+
+h1 {color: rgb(161, 37, 78);
+  text-align:center;
+  font-weight: bold; 
+  font-size: x-large;
+  background-color: rgb(255, 199, 208);
+  text-align:auto;
+  width: 95%;
+}
+
+h2 {color: rgb(161, 37, 78);
+  text-align:center;
+  font-weight: bold; 
+  font-size: x-large;
+  background-color: rgb(255, 199, 208);
+  text-align:auto;
+  width: 95%;
+}
+
+h3 {color: rgb(161, 37, 78);
+  text-align:center;
+  font-weight: bold; 
+  font-size: x-large;
+  background-color: rgb(255, 199, 208);
+  text-align:auto;
+  width: 95%;
+}
+
+h4 {color: rgb(161, 37, 78);
+  text-align:center;
+  font-weight: bold; 
+  font-size: x-large;
+  background-color: rgb(255, 199, 208);
+  text-align:auto;
+  width: 95%;
+}
+
+iframe {border:1;display:block;margin:auto;}
+
+
